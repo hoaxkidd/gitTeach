@@ -1,4 +1,5 @@
 function(){}
 
 var x
-var y 
+var y
+var z
